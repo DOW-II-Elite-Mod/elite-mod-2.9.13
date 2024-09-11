@@ -14,7 +14,8 @@ archive.02 = elite\Archives\Elite_Campaign_Attrib.sga
 archive.03 = elite\Archives\GameAttrib_orig.sga
 
 [sound:common]
-folder.01 = GameAssets\Data\Sound
+folder.01 = Elite\Data\Sound
+folder.02 = GameAssets\Data\Sound
 archive.01 = elite\Archives\Elite_sound.sga
 archive.02 = GameAssets\Archives\GameSoundContainers.sga
 archive.03 = GameAssets\Archives\002_sound.sga
